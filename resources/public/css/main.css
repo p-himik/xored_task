@@ -1,0 +1,19 @@
+.list {
+	width: 400px;
+	height: 200px;
+}
+
+.long-list {
+	width: 400px;
+	height: 450px;
+}
+
+#task-code {
+	width: 400px;
+	height: 150px;
+}
+
+.input-section {
+	float: left;
+	margin: 10px;
+}
