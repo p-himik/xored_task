@@ -1,4 +1,4 @@
-(ns xored-task.core
+(ns xored-task.public
   (:use [xored-task.data]
         [xored-task.logic]))
 

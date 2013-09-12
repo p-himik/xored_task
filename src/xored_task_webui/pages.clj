@@ -1,5 +1,4 @@
 (ns xored-task-webui.pages
-  (:require [xored-task.core :as xtcore])
   (:use [hiccup.page :only [html5 include-js include-css]]
         [hiccup.form :only [select-options]]))
 
